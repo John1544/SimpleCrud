@@ -1,0 +1,11 @@
+C:\Users\johnv\source\repos\SimpleCrud\DataConnection\obj\Debug\DataConnection.csprojAssemblyReference.cache
+C:\Users\johnv\source\repos\SimpleCrud\DataConnection\obj\Debug\DataConnection.csproj.CoreCompileInputs.cache
+C:\Users\johnv\source\repos\SimpleCrud\DataConnection\bin\Debug\DataConnection.dll
+C:\Users\johnv\source\repos\SimpleCrud\DataConnection\bin\Debug\DataConnection.pdb
+C:\Users\johnv\source\repos\SimpleCrud\DataConnection\bin\Debug\Dapper.dll
+C:\Users\johnv\source\repos\SimpleCrud\DataConnection\bin\Debug\Model.Repo.dll
+C:\Users\johnv\source\repos\SimpleCrud\DataConnection\bin\Debug\Model.Repo.pdb
+C:\Users\johnv\source\repos\SimpleCrud\DataConnection\bin\Debug\Dapper.xml
+C:\Users\johnv\source\repos\SimpleCrud\DataConnection\obj\Debug\DataConnection.csproj.CopyComplete
+C:\Users\johnv\source\repos\SimpleCrud\DataConnection\obj\Debug\DataConnection.dll
+C:\Users\johnv\source\repos\SimpleCrud\DataConnection\obj\Debug\DataConnection.pdb

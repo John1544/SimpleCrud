@@ -1,0 +1,17 @@
+C:\Users\johnv\source\repos\SimpleCrud\View.Rep\obj\Debug\View.Rep.csprojAssemblyReference.cache
+C:\Users\johnv\source\repos\SimpleCrud\View.Rep\obj\Debug\View.Rep.Form1.resources
+C:\Users\johnv\source\repos\SimpleCrud\View.Rep\obj\Debug\View.Rep.Properties.Resources.resources
+C:\Users\johnv\source\repos\SimpleCrud\View.Rep\obj\Debug\View.Rep.csproj.GenerateResource.cache
+C:\Users\johnv\source\repos\SimpleCrud\View.Rep\obj\Debug\View.Rep.csproj.CoreCompileInputs.cache
+C:\Users\johnv\source\repos\SimpleCrud\View.Rep\bin\Debug\View.Rep.exe.config
+C:\Users\johnv\source\repos\SimpleCrud\View.Rep\bin\Debug\View.Rep.exe
+C:\Users\johnv\source\repos\SimpleCrud\View.Rep\bin\Debug\View.Rep.pdb
+C:\Users\johnv\source\repos\SimpleCrud\View.Rep\bin\Debug\DataConnection.dll
+C:\Users\johnv\source\repos\SimpleCrud\View.Rep\bin\Debug\Model.Repo.dll
+C:\Users\johnv\source\repos\SimpleCrud\View.Rep\bin\Debug\Dapper.dll
+C:\Users\johnv\source\repos\SimpleCrud\View.Rep\bin\Debug\DataConnection.pdb
+C:\Users\johnv\source\repos\SimpleCrud\View.Rep\bin\Debug\Model.Repo.pdb
+C:\Users\johnv\source\repos\SimpleCrud\View.Rep\bin\Debug\Dapper.xml
+C:\Users\johnv\source\repos\SimpleCrud\View.Rep\obj\Debug\View.Rep.csproj.CopyComplete
+C:\Users\johnv\source\repos\SimpleCrud\View.Rep\obj\Debug\View.Rep.exe
+C:\Users\johnv\source\repos\SimpleCrud\View.Rep\obj\Debug\View.Rep.pdb

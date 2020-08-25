@@ -1,0 +1,6 @@
+C:\Users\johnv\source\repos\SimpleCrud\Model.Repo\bin\Debug\Model.Repo.dll
+C:\Users\johnv\source\repos\SimpleCrud\Model.Repo\bin\Debug\Model.Repo.pdb
+C:\Users\johnv\source\repos\SimpleCrud\Model.Repo\obj\Debug\Model.Repo.csprojAssemblyReference.cache
+C:\Users\johnv\source\repos\SimpleCrud\Model.Repo\obj\Debug\Model.Repo.csproj.CoreCompileInputs.cache
+C:\Users\johnv\source\repos\SimpleCrud\Model.Repo\obj\Debug\Model.Repo.dll
+C:\Users\johnv\source\repos\SimpleCrud\Model.Repo\obj\Debug\Model.Repo.pdb
